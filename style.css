@@ -15,9 +15,10 @@ body{
     justify-content: center;
     height: 40rem;
     flex-direction: column;
-
+    background-color: #eee;
     font-family: 'Roboto', sans-serif;
     font-size: large;
+    padding-top: 1rem;
 }
 #main{
     background-color: #aaa;
